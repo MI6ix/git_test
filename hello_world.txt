@@ -1,0 +1,1 @@
+This file only acts as a sample text file included in the git_test repo. Usually you'd have code and other kinds of files, but for now we just include a test file.
